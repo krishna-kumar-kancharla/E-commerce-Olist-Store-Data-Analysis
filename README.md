@@ -9,8 +9,9 @@ This project delivers a comprehensive analysis of the Olist e-commerce dataset, 
 
 # Dataset Used:
 This project uses the Olist E-commerce Public Dataset, containing 100K+ orders with customer demographics, product categories, payment methods, delivery performance, and customer review data.
-# Dataset link:
 
+# Dataset link:
+https://github.com/krishna-kumar-kancharla/E-commerce-Olist-Store-Data-Analysis/blob/main/New%20WinRAR%20ZIP%20archive.zip
 
 # Tools Used:
 - Excel
