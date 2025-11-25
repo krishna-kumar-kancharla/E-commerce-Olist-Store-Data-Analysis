@@ -10,7 +10,7 @@ This project delivers a comprehensive analysis of the Olist e-commerce dataset, 
 # Dataset Used:
 This project uses the Olist E-commerce Public Dataset, containing 100K+ orders with customer demographics, product categories, payment methods, delivery performance, and customer review data.
 # Dataset link:
-"https://github.com/ashoksenoffical29-stack/E-commerce---Olist-Store-Data-Analysis/blob/main/New%20WinRAR%20ZIP%20archive.zip"
+
 
 # Tools Used:
 - Excel
@@ -48,6 +48,9 @@ This project uses the Olist E-commerce Public Dataset, containing 100K+ orders w
 
 # Power BI Dashboard:
 <img width="1458" height="813" alt="Screenshot 2025-11-17 121059" src="https://github.com/user-attachments/assets/9797fa7c-9dd1-4ec1-8ab9-965ffc7f6539" />
+
+# Tableau Dashboard:
+![Tableau Dashboard](https://github.com/user-attachments/assets/ee9e88cd-dabe-48d4-aa6c-50054c6a14ad)
 
 ## Conclusion:
 The analysis of the Olist e-commerce dataset provides valuable insights into customer behavior, sales performance, delivery efficiency, and overall marketplace operations. By transforming raw data into meaningful KPIs and visual dashboards, the project highlights key trends that can support strategic decision-making. The results emphasize the importance of optimized logistics, customer satisfaction, and product performance in enhancing overall business outcomes.
